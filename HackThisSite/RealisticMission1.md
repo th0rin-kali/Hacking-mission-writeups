@@ -13,6 +13,8 @@ A fairly simple webpage with some PHP coded elements and buttons. Raging Inferno
 Using Firebug for Firefox or Chrome Inspect Element, right click the 'Vote!' button on Raging Inferno.This takes you to the code snippet for that button. The line you need is above `<select name="vote">`.Drop this tag to reveal the other code entries.We need to change the value of '5' to represent a higher value.Change `<option value="5">5</option>` to `<option value="9999">5</option>`
 This will send the value 9999 to the server as a vote for Raging Inferno instead of just 5. 
 
+Now on the website, select '5' in the drop down menue and hit 'Vote!'
+
 You will be notified that you have completed the task. 
 
 Well Done! 
