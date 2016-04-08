@@ -1,6 +1,7 @@
 #!/bin/bash
 
-touch hostlist.txtecho ">> Please enter IP/range"
+touch hostlist.txt
+echo ">> Please enter IP/range"
    read ip_input
 echo $ip_input > hostlist.txt
 echo "$(tput setaf 3)[+]$(tpu sgr0) Running ping sweep on $ip_input"
