@@ -7,6 +7,6 @@ I use nmap a lot. I knew that I wanted to automate an nmap script via a user inp
 
 After digging around looking for a start, I went to work and wrote the script 
 
-[pingsweep.sh](www.github.com/infosecps/hacking-mission-writeups/Scripts/pingsweep.sh)
+[pingsweep.sh](https://github.com/InfoSecPS/Hacking-mission-writeups/blob/master/Scripts/pingsweep.sh)
 
 
