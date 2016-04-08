@@ -7,6 +7,6 @@ I use nmap a lot. I knew that I wanted to automate an nmap script via a user inp
 
 After digging around looking for a start, I went to work and wrote the script 
 
-pingsweep.sh
+[pingsweep.sh!](Scripts/pingsweep.sh)
 
 
